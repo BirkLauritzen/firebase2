@@ -2,7 +2,7 @@
   "name": "firebase",
   "version": "1.0.0",
   "description": "",
-  "main": "src/fetch-single-document.js",
+  "main": "src/fetch-collection.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "build": "webpack"
@@ -15,6 +15,6 @@
     "webpack-cli": "^5.1.4"
   },
   "dependencies": {
-    "firebase": "^10.4.0"
+    "firebase": "^10.5.2"
   }
 }

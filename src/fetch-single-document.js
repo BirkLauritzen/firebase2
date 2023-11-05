@@ -4,12 +4,14 @@ import { collection, getDoc, doc} from "firebase/firestore";
 
 // Your web app's Firebase configuration
 const firebaseConfig = {
-    apiKey: "AIzaSyATrCghAMP31LFumsYhr-I3920KgtoJI8E",
-    authDomain: "fir-web-84050.firebaseapp.com",
-    projectId: "fir-web-84050",
-    storageBucket: "fir-web-84050.appspot.com",
-    messagingSenderId: "439128737122",
-    appId: "1:439128737122:web:d5b490c386808a89a7183b"
+    apiKey: "AIzaSyCjZPmTcZC8ssOg4nhdDXkrr3Ct2Uacp5w",
+    authDomain: "firstbase-46fae.firebaseapp.com",
+    databaseURL: "https://firstbase-46fae-default-rtdb.europe-west1.firebasedatabase.app",
+    projectId: "firstbase-46fae",
+    storageBucket: "firstbase-46fae.appspot.com",
+    messagingSenderId: "2129737229",
+    appId: "1:2129737229:web:3d664cbd068e172f828744",
+    measurementId: "G-RZNK8E22CD"
 };
 
 // Initialize Firebase
